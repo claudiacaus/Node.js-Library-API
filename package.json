@@ -1,0 +1,25 @@
+{
+  "name": "Node.js-Library-API",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claudiadewindt/Node.js-Library-API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/claudiadewindt/Node.js-Library-API/issues"
+  },
+  "homepage": "https://github.com/claudiadewindt/Node.js-Library-API#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.13",
+    "uuid": "^8.3.2"
+  }
+}
